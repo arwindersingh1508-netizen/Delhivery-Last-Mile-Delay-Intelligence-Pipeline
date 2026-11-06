@@ -26,7 +26,7 @@ python src/predict_delay.py
 
 Note on Model File: The model file (outputs/best_model.pkl) is created automatically when you run package_model.py. If python library versions are different on the grader's computer, it will just re-run that script to make sure everything works smoothly.
 
- or you can just doulbe tap on Delhivery_Last_Mile_Delay_Intellige-Pipeline and open Google colabe and after run all.
+ or you can just doulbe tap on Delhivery_Last_Mile_Delay_Intellige-Pipeline file and open Google colabe and after run all.
 
 #Data Findings
 (i) Which service gets delayed most? Economy shipments get delayed the most often, with a delay rate of 42.50% (compared to Standard at 24.10% and Express at 8.30%).
